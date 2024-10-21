@@ -1,3 +1,13 @@
+p, a, h1
+b
+{
+color:black;
+font-size:large 30pt;
+font-family: 'Courier New', Courier, monospace;
+    
+}
+
+
 body
 {
 
@@ -9,13 +19,27 @@ p
 
 {
    color:darkred;
-   font-size: 20pt;
+   font-size: 18pt;
    font-weight: bold;
+   font-family: 'Courier New', Courier, monospace;
 }
 
 img
 
+
 {
-    height: 270px;
-    width: 270px;
+    height: 200px;
+    width: 500px;
+}
+
+div
+{
+
+    max-width: 800px;
+    margin:auto;
+}
+
+#main{
+
+    text-align: center;
 }
